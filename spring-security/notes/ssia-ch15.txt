@@ -1,0 +1,3 @@
+cryptographic sgnatures - allow resource server to validate tokens (JWT tokens) 
+    a. does not require communication with authentication server 
+    b. does not require sharing a database with the authentication server
