@@ -1,8 +1,0 @@
-using create-react-app
-
-React => components
-React Router => client side routing
-Node, npm => packages/automation
-Babel => transpile
-Webpack => bundle
-ESLint => lint
